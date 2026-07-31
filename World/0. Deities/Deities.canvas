@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"a0205b39b78b2098","type":"text","text":"Creator God","x":-120,"y":-720,"width":250,"height":60,"color":"3"},
+		{"id":"ce2ae5f7dcb1bfbb","type":"text","text":"Rock, Metal, Fire","x":130,"y":-520,"width":250,"height":60},
+		{"id":"c0ab4442296ce9c3","type":"text","text":"Water, Oceans, The Stars","x":-370,"y":-520,"width":250,"height":60,"color":"#0a5061"},
+		{"id":"8ac8885ea1fafa7f","type":"text","text":"Battle, Destruction, Technology","x":-360,"y":-420,"width":250,"height":60,"color":"1"},
+		{"id":"5342f14c7aecb31b","type":"text","text":"Knowledge, Wisdom, Justice","x":120,"y":-420,"width":250,"height":60,"color":"6"},
+		{"id":"e7848b51e16db4bd","type":"text","text":"Death, Decay, Darkness","x":140,"y":-320,"width":250,"height":60,"color":"#342b36"},
+		{"id":"dfcf8aed7467afcb","type":"text","text":"Life, Growth, Renewal","x":-380,"y":-320,"width":250,"height":60,"color":"4"},
+		{"id":"84baae98da14348c","type":"text","text":"Wind, Air, Lightning","x":-120,"y":-620,"width":250,"height":60,"color":"#3067d5"}
+	],
+	"edges":[
+		{"id":"b5caec4cb609fe3e","fromNode":"a0205b39b78b2098","fromSide":"left","toNode":"c0ab4442296ce9c3","toSide":"top"},
+		{"id":"91e78f659a2c29ae","fromNode":"a0205b39b78b2098","fromSide":"left","toNode":"8ac8885ea1fafa7f","toSide":"top"},
+		{"id":"ab2838a3514239da","fromNode":"a0205b39b78b2098","fromSide":"left","toNode":"dfcf8aed7467afcb","toSide":"top"},
+		{"id":"8b23cbdcef2604be","fromNode":"a0205b39b78b2098","fromSide":"right","toNode":"ce2ae5f7dcb1bfbb","toSide":"top"},
+		{"id":"8803f515e899dd73","fromNode":"a0205b39b78b2098","fromSide":"right","toNode":"5342f14c7aecb31b","toSide":"top"},
+		{"id":"41974b8c7ccc062b","fromNode":"a0205b39b78b2098","fromSide":"right","toNode":"e7848b51e16db4bd","toSide":"top"},
+		{"id":"0c85235132c52e0c","fromNode":"a0205b39b78b2098","fromSide":"bottom","toNode":"84baae98da14348c","toSide":"top"},
+		{"id":"edc3ca72ce8fd0e2","fromNode":"c0ab4442296ce9c3","fromSide":"right","toNode":"ce2ae5f7dcb1bfbb","toSide":"left"},
+		{"id":"c4a7e0bd6dc6344e","fromNode":"ce2ae5f7dcb1bfbb","fromSide":"left","toNode":"c0ab4442296ce9c3","toSide":"right"},
+		{"id":"c7797df8c247eaf6","fromNode":"8ac8885ea1fafa7f","fromSide":"right","toNode":"5342f14c7aecb31b","toSide":"left"},
+		{"id":"eead7f515cdf4326","fromNode":"5342f14c7aecb31b","fromSide":"left","toNode":"8ac8885ea1fafa7f","toSide":"right"},
+		{"id":"f1d146b3deea1a83","fromNode":"dfcf8aed7467afcb","fromSide":"right","toNode":"e7848b51e16db4bd","toSide":"left"},
+		{"id":"c4d46d5102e3b518","fromNode":"e7848b51e16db4bd","fromSide":"left","toNode":"dfcf8aed7467afcb","toSide":"right"}
+	]
+}

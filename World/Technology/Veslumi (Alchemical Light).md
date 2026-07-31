@@ -1,0 +1,1 @@
+There are few, apart from the Gnomes that build them, who could explain how these glowing lights actually work. Most simply know that they light the streets of cities and illuminate interiors. The device's cyan light can be dim as a candle, or bright as a flash of lightning.
